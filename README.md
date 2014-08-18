@@ -1,0 +1,2 @@
+magentosnippet
+==============
